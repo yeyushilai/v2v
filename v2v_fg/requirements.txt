@@ -1,0 +1,6 @@
+requests==2.22.0
+furl==2.1.2
+psycopg2-binary==2.8.6
+qingstor-sdk==2.2.6
+python-whois==0.7.3
+pypinyin==0.41.0
